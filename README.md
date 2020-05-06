@@ -4,7 +4,7 @@ The planar robots labs files included allow to build or to simulate two differen
 
 ### The 4R robot
 
-It is based on the analysis of the geometry of the closed loop structure. Is a  1 DOF planar robot with four rotational joints (4R). It is called the 4R linkage and which has two fixed pivots. The arm distances are fixed, as the system contains only rotational joints. The mathematical model can be obtained using common kinematics analysis.
+It is based on the analysis of the geometry of the closed loop structure. It is a  1 DOF planar robot with four rotational joints (4R), is usually called the 4R linkage, and has two fixed pivots. The mathematical model can be obtained using common kinematics analysis.
 
 ### The 5R robot
 
